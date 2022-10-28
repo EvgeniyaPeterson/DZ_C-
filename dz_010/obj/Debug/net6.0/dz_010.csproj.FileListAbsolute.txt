@@ -1,0 +1,15 @@
+C:\Users\Eva\Desktop\DZ_C#\dz_010\obj\Debug\net6.0\dz_010.csproj.AssemblyReference.cache
+C:\Users\Eva\Desktop\DZ_C#\dz_010\obj\Debug\net6.0\dz_010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eva\Desktop\DZ_C#\dz_010\obj\Debug\net6.0\dz_010.AssemblyInfoInputs.cache
+C:\Users\Eva\Desktop\DZ_C#\dz_010\obj\Debug\net6.0\dz_010.AssemblyInfo.cs
+C:\Users\Eva\Desktop\DZ_C#\dz_010\obj\Debug\net6.0\dz_010.csproj.CoreCompileInputs.cache
+C:\Users\Eva\Desktop\DZ_C#\dz_010\bin\Debug\net6.0\dz_010.exe
+C:\Users\Eva\Desktop\DZ_C#\dz_010\bin\Debug\net6.0\dz_010.deps.json
+C:\Users\Eva\Desktop\DZ_C#\dz_010\bin\Debug\net6.0\dz_010.runtimeconfig.json
+C:\Users\Eva\Desktop\DZ_C#\dz_010\bin\Debug\net6.0\dz_010.dll
+C:\Users\Eva\Desktop\DZ_C#\dz_010\bin\Debug\net6.0\dz_010.pdb
+C:\Users\Eva\Desktop\DZ_C#\dz_010\obj\Debug\net6.0\dz_010.dll
+C:\Users\Eva\Desktop\DZ_C#\dz_010\obj\Debug\net6.0\refint\dz_010.dll
+C:\Users\Eva\Desktop\DZ_C#\dz_010\obj\Debug\net6.0\dz_010.pdb
+C:\Users\Eva\Desktop\DZ_C#\dz_010\obj\Debug\net6.0\dz_010.genruntimeconfig.cache
+C:\Users\Eva\Desktop\DZ_C#\dz_010\obj\Debug\net6.0\ref\dz_010.dll
