@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
-
+﻿
 //Задача 10: Напишите программу, которая принимает на вход 
 //трёхзначное число и на выходе показывает вторую цифру 
 //этого числа. Через строку решать нельзя.
@@ -9,18 +7,29 @@
 //782 -> 8
 //918 -> 1
 
-Console.WriteLine("Задача 10");
-Console.WriteLine("Введите 3-х значное число:");
 
-int a = int.Parse(Console.ReadLine()!);
-
-if(a<100 || a>999)
+int ReadRandomNumber()
 {
-    Console.WriteLine("Ошибка. Введите 3-х значное число:");
+Console.WriteLine("Введите трехзначное число ");
+int Num = int.Parse(Console.ReadLine()!);
+if (Num < 1000 && Num > 99)
+    return Num;
+else
+    return -1;
 }
+
+int SecondDigit(int Num)
+{
+    return (Num % 100) / 10;
+}
+
+int randomNumber = ReadRandomNumber();
+if (randomNumber==-1)
+    Console.WriteLine("Введено не трехзначное число!");
 else
 {
-    a=a-(a-(a%100));
-    a=a/10;
-    Console.WriteLine(a);
+    Console.WriteLine("Введено число: " + randomNumber);
+    Console.WriteLine(" Вторая цифра:  " +SecondDigit(randomNumber));
 }
+
+
